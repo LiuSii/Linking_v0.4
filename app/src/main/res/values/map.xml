@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="map_1">
+        <item>@drawable/empty</item><item>@drawable/empty</item><item>@drawable/empty</item><item>@drawable/empty</item><item>@drawable/empty</item><item>@drawable/empty</item><item>@drawable/empty</item>
+        <item>@drawable/empty</item><item>@drawable/one</item><item>@drawable/empty</item><item>@drawable/one</item><item>@drawable/empty</item><item>@drawable/one</item><item>@drawable/empty</item>
+        <item>@drawable/empty</item><item>@drawable/two</item><item>@drawable/five</item><item>@drawable/four</item><item>@drawable/five</item><item>@drawable/two</item><item>@drawable/empty</item>
+        <item>@drawable/empty</item><item>@drawable/two</item><item>@drawable/three</item><item>@drawable/four</item><item>@drawable/two</item><item>@drawable/empty</item><item>@drawable/empty</item>
+        <item>@drawable/empty</item><item>@drawable/two</item><item>@drawable/two</item><item>@drawable/two</item><item>@drawable/two</item><item>@drawable/empty</item><item>@drawable/empty</item>
+        <item>@drawable/empty</item><item>@drawable/empty</item><item>@drawable/empty</item><item>@drawable/empty</item><item>@drawable/empty</item><item>@drawable/empty</item><item>@drawable/empty</item>
+        <item>@drawable/empty</item><item>@drawable/empty</item><item>@drawable/empty</item><item>@drawable/empty</item><item>@drawable/empty</item><item>@drawable/empty</item><item>@drawable/empty</item>
+    </string-array>
+</resources>
